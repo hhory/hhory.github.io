@@ -17,7 +17,7 @@ Jos aiot [rinnakkaisjäseneksi](https://sko.oaj.fi/jasenyys/rinnakkaisjasenyys/)
 Lisätietoja ja ohjeita jäseneksi liittymisestä löytyy [OAJ:n Liity jäseneksi! -sivulta](https://www.oaj.fi/jasenyys/liity-jaseneksi/) sekä [OAJ:n jäseneksi liittymisen ohjevideosta](https://www.oaj.fi/globalassets/jasenyys/liittymisprosessin-ohjevideo/liittymisen-ohjevideo-17.9.2021.mp4).
 
 __Jos tietosi muuttuvat__, päivitä muuttuneet tiedot [OAJ:n jäsentietosivujen](https://www.oaj.fi/jasenyys/jasentietojen-yllapito/) kautta:<br/>
-       [Jäsentietosivut](https://www.oaj.fi/jasenyys/jasentietojen-yllapito/) &longrightarrow; Kirjaudu Omat tiedot-osioon &longrightarrow; Muokkaa <br/>
+              [Jäsentietosivut](https://www.oaj.fi/jasenyys/jasentietojen-yllapito/) &longrightarrow; Kirjaudu Omat tiedot-osioon &longrightarrow; Muokkaa <br/>
 niin ne päivittyvät myös HHO ry:lle.
 
 __Eroaminen yhdistyksestä__ (_myös eläköitymisen yhteydessä_) tapahtuu sekin [OAJ:n jäsentietosivujen](https://www.oaj.fi/jasenyys/jasentietojen-yllapito/) kautta.
