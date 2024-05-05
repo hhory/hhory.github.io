@@ -83,7 +83,7 @@ Edellä mainitun lisäksi tietoja ei siirretä Euroopan unionin tai Euroopan tal
 
 <u>Yhdistyksen hallituksen jäsenten sekä muiden toimihenkilöiden tiedot</u>: Poistetaan asianomaisen pyynnöstä.
 
-<u>Pöytäkirjat</u>: Yhdistyksiä koskevan kirjanpitovelvoitteen vuoksi kokouspöytäkirjoja säilytetään vähintään kymmenen vuoden ajan.
++Pöytäkirjat+: Yhdistyksiä koskevan kirjanpitovelvoitteen vuoksi kokouspöytäkirjoja säilytetään vähintään kymmenen vuoden ajan.
 
 <u>Kirjanpito</u>: Yhdistyksen talouden- ja kirjanpitovelvoitteista on määrätty muun muassa kirjanpito- ja yhdistyslaeissa. Täten henkilötiedot, esimerkiksi kirjanpidossa, tositteissa tai muissa vastaavissa talouden ja kirjanpidon asiakirjoissa, säilötään edellä mainittujen lakien mukaisesti vähintään kymmenen vuoden ajan.
 
