@@ -3,6 +3,7 @@
 
 ## Rekisterinpitäjä
 Haaga-Helian opettajat HHO ry
+
 Ratapihantie 13
 00520 Helsinki
 
