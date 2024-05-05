@@ -120,4 +120,4 @@ Mikäli koet, että henkilötietojesi käsittely ei ole ollut asianmukaista, voi
 ## Tietosuojaselosteen muuttaminen
 Meillä on oikeus muuttaa tätä tietosuojaselostetta. Ilmoitamme muutoksista yhdistyksen tiedotuskanavilla, mm. www-sivuilla. Viimeisin versio tästä tietosuojaselosteesta löytyy yhdistyksen www-sivulta.
 
-_Tämä seloste on viimeksi päivitetty 7.5.2024. // HHO ry hallitus_
+_Tämä seloste on viimeksi päivitetty 5.5.2024. // HHO ry hallitus_
