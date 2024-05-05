@@ -10,6 +10,7 @@ Ratapihantie 13
 Yhteyshenkilömme kaikkia tätä rekisteriä koskevissa asioissa on
 
 Haaga-Helian opettajat HHO ry:n hallitus
+
 Puheenjohtaja: Kristiina Huff, [kristiina.huff@haaga-helia.fi](mailto:kristiina.huff@haaga-helia.fi)
 
 Voit kysyä tarkempia tietoja tästä tietosuojaselosteesta tai henkilötietojesi käsittelystä ottamalla yhteyttä näihin yhteyshenkilöihin.
