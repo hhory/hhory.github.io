@@ -36,19 +36,19 @@ Yhdistyksen kirjanpidossa säilytetään henkilötietoja kirjanpito- ja yhdistys
 
 ## Säännönmukaiset tietolähteet
 Keräämme ja käsittelemme henkilötietoja, jotka annat meille, kun
-•	Täytät jäsenliittymislomakkeen
-•	Ilmoittaudut tapahtumaan ilmoittautumislomakkeella tai sähköpostitse
-•	Haet yhdistykseltä kulukorvausta
-•	Osallistut yhdistyksen tai sen hallituksen kokoukseen
-•	Jätät yhteystietosi yhdistyksestä erottuasi eläköitymisen tms. yhteydessä.
+*	Täytät jäsenliittymislomakkeen
+*	Ilmoittaudut tapahtumaan ilmoittautumislomakkeella tai sähköpostitse
+*	Haet yhdistykseltä kulukorvausta
+*	Osallistut yhdistyksen tai sen hallituksen kokoukseen
+*	Jätät yhteystietosi yhdistyksestä erottuasi eläköitymisen tms. yhteydessä.
 
 Liittyessäsi jäseneksi ilmoitat OAJ ry:lle liittymislomakkeessa kysytyt tiedot. OAJ:n jäsenrekisteriin on pääsy HHO ry:n vastuuhenkilöillä ja OAJ:n luottamushenkilöillä. Haaga-Helian opettajat HHO ry:n jäsenasioiden vastaava pitää yhteyttä OAJ:hin jäsenrekisteriasioissa. HHO ry ei pidä omaa jäsenrekisteriä. 
-•	Haaga-Helian opettajat HHO ry:n jäsenasioiden vastaava on Maria Ruohtula, [maria.ruohtula@haaga-helia.fi](mailto:maria.ruohtula@haaga-helia.fi).
+*	Haaga-Helian opettajat HHO ry:n jäsenasioiden vastaava on Maria Ruohtula, [maria.ruohtula@haaga-helia.fi](mailto:maria.ruohtula@haaga-helia.fi).
 
 Kullakin tapahtumailmoittautumislomakkeella ilmoitetaan ne pakolliset tiedot, joiden antaminen on edellytyksenä kuhunkin tapahtumaan osallistumiseksi. Kun osallistut yhdistyksen tai sen hallituksen kokoukseen, nimesi ja käyttämäsi puheenvuorot kirjataan kokouksen pöytäkirjaan.
 
 Lisäksi keräämme tietoja Opettajien ammattijärjestö OAJ ry:n jäsenrekisteristä. 
-•	[Opettajien ammattijärjestö OAJ ry:n tietosuojaseloste](https://www.oaj.fi/oaj/oajn-tietosuojaseloste/)
+*	[Opettajien ammattijärjestö OAJ ry:n tietosuojaseloste](https://www.oaj.fi/oaj/oajn-tietosuojaseloste/)
 
 5. Rekisterin 
 
