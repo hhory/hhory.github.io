@@ -50,15 +50,20 @@ Kullakin tapahtumailmoittautumislomakkeella ilmoitetaan ne pakolliset tiedot, jo
 Lisäksi keräämme tietoja Opettajien ammattijärjestö OAJ ry:n jäsenrekisteristä. 
 *	[Opettajien ammattijärjestö OAJ ry:n tietosuojaseloste](https://www.oaj.fi/oaj/oajn-tietosuojaseloste/)
 
-5. Rekisterin 
-
-
-
 ## Rekisterin tietosisältö
-
-
+Keräämme ja käsittelemme seuraavia henkilötietoryhmiä:
+*	Perustiedot, kuten nimi ja yhteystiedot (sähköposti, puhelinnumero, osoite)
+*	Tapahtumien osallistumistiedot
+*	Hallituksen jäsenten ja toimijoiden osalta kyseistä tehtävää koskevat tiedot
 
 ## Säännönmukaiset tietojen siirrot ja luovutukset
+Yhdistyksen jäsenten tiedot tallennetaan Opettajien ammattijärjestön OAJ ry:n jäsenrekisteriin ja niitä käsitellään siellä [OAJ:n tietosuojaselosteen](https://www.oaj.fi/oaj/oajn-tietosuojaseloste/) mukaisesti.
+
+Haaga-Helian opettajat HHO ry käyttää henkilötietojen käsittelyssä Haaga-Helia ammattikorkeakoulu Oy:n tietojärjestelmiä sekä Microsoftin ja Googlen pilvipalveluita.
+•	Haaga-Helia ammattikorkeakoulu OY:n tietosuojalauseke
+•	Googlen tietosuojakäytäntö
+•	Microsoftin tietosuojalauseke
+Edellä mainitun lisäksi henkilötietoja ei luovuteta Haaga-Helian opettajat HHO ry:n ulkopuolelle paitsi viranomaisen pyyntöön vastaamiseksi lainsäädännön edellyttämässä laajuudessa.
 
 
 ## Tietojen siirto EU:n tai ETA:n ulkopuolella
