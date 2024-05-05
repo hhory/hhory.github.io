@@ -75,19 +75,17 @@ Osaa tiedoista käsitellään Haaga-Helia amk Oy:n palveluissa sekä Googlen tai
 Edellä mainitun lisäksi tietoja ei siirretä Euroopan unionin tai Euroopan talousalueen ulkopuolelle.
 
 ## Henkilötietojen säilyttäminen
-<u>Jäsenliittymislomake</u>: Jäsenliittymislomakkeen tiedot menevät suoraan OAJ ry:n rekisteriin eikä Haaga-Helian opettajat HHO ry pidä omaa rekisteriä jäseneksi hakijoista.
+&#9657;`Jäsenliittymislomake`: Jäsenliittymislomakkeen tiedot menevät suoraan OAJ ry:n rekisteriin eikä Haaga-Helian opettajat HHO ry pidä omaa rekisteriä jäseneksi hakijoista.
 
-<u>Jäsenrekisteri</u>: Haaga-Helian opettajat HHO ry:n hallitus voi tarvittaessa ilmoittaa Opettajien ammattijärjestön OAJ ry:n jäsenrekisteriin tietojen poistosta jäsenen erotessa ja ne poistetaan sieltä [OAJ:n tietosuojaselosteen](https://www.oaj.fi/oaj/oajn-tietosuojaseloste/) mukaisesti.
+&#9657;`Jäsenrekisteri`: Haaga-Helian opettajat HHO ry:n hallitus voi tarvittaessa ilmoittaa Opettajien ammattijärjestön OAJ ry:n jäsenrekisteriin tietojen poistosta jäsenen erotessa ja ne poistetaan sieltä [OAJ:n tietosuojaselosteen](https://www.oaj.fi/oaj/oajn-tietosuojaseloste/) mukaisesti.
 
-<u>Tapahtumailmoittautumiset</u>: Tapahtumiin osallistuvien nimet lisätään tapahtumakuvaukseen ja sitä kautta toiminnantarkastukseen ja kirjanpitoon hyvän hallintotavan mukaisesti. Tietoja säilytetään, kunnes tapahtuman mahdollinen osallistumismaksu on toteutunut ja tapahtumaan liittyvä tarpeellinen tiedotus ja raportointi sekä sen kuluihin liittyvä kirjanpito on tehty.
+&#9657;`Tapahtumailmoittautumiset`: Tapahtumiin osallistuvien nimet lisätään tapahtumakuvaukseen ja sitä kautta toiminnantarkastukseen ja kirjanpitoon hyvän hallintotavan mukaisesti. Tietoja säilytetään, kunnes tapahtuman mahdollinen osallistumismaksu on toteutunut ja tapahtumaan liittyvä tarpeellinen tiedotus ja raportointi sekä sen kuluihin liittyvä kirjanpito on tehty.
 
-<u>Yhdistyksen hallituksen jäsenten sekä muiden toimihenkilöiden tiedot</u>: Poistetaan asianomaisen pyynnöstä.
-
-&#9657;Pöytäkirjat: NO ne
+&#9657;`Yhdistyksen hallituksen jäsenten sekä muiden toimihenkilöiden tiedot`: Poistetaan asianomaisen pyynnöstä.
 
 &#9657;`Pöytäkirjat`: Yhdistyksiä koskevan kirjanpitovelvoitteen vuoksi kokouspöytäkirjoja säilytetään vähintään kymmenen vuoden ajan.
 
-<u>Kirjanpito</u>: Yhdistyksen talouden- ja kirjanpitovelvoitteista on määrätty muun muassa kirjanpito- ja yhdistyslaeissa. Täten henkilötiedot, esimerkiksi kirjanpidossa, tositteissa tai muissa vastaavissa talouden ja kirjanpidon asiakirjoissa, säilötään edellä mainittujen lakien mukaisesti vähintään kymmenen vuoden ajan.
+&#9657;`Kirjanpito`: Yhdistyksen talouden- ja kirjanpitovelvoitteista on määrätty muun muassa kirjanpito- ja yhdistyslaeissa. Täten henkilötiedot, esimerkiksi kirjanpidossa, tositteissa tai muissa vastaavissa talouden ja kirjanpidon asiakirjoissa, säilötään edellä mainittujen lakien mukaisesti vähintään kymmenen vuoden ajan.
 
 ## Rekisterin suojauksen periaatteet
 __Manuaalinen aineisto__
